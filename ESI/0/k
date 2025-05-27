@@ -33,6 +33,7 @@ boundaryField
     {
         type            atmBoundaryLayerInletK;
         #include        "include/ABLConditions"
+        value           $internalField;
     }
 
     East		//outlet	
@@ -46,6 +47,7 @@ boundaryField
     {
         type            atmBoundaryLayerInletK;
         #include        "include/ABLConditions"
+        value           $internalField;
     }
 
 

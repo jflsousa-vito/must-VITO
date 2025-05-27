@@ -34,6 +34,7 @@ boundaryField
     {
         type            atmBoundaryLayerInletVelocity;
         #include        "include/ABLConditions";
+        value           $internalField;
     }
 
     East		//outlet
@@ -47,6 +48,7 @@ boundaryField
     {
         type            atmBoundaryLayerInletVelocity;
         #include        "include/ABLConditions";
+        value           $internalField;
     }
 
     top			//top
