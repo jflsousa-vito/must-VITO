@@ -22,5 +22,14 @@ rad.json
 TestResults.xml
 
 Foundation/mesh/
-ESI/constant/
+
+ESI/constant/polyMesh
+ESI/processor0
+ESI/processor*/
+ESI/1000
+ESI/2000
+ESI/3000
+ESI/4000
+ESI/5000
+
 
