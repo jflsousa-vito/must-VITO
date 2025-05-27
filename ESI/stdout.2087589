@@ -1,0 +1,19 @@
+decomposing...
+running...
+Reconstruncting...
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2406                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _630d60de3b-20240620 OPENFOAM=2406 version=v2406
+Arch   : "LSB;label=32;scalar=64"
+Exec   : redistributePar -reconstruct -parallel
+Date   : May 27 2025
+Time   : 14:15:14
+Host   : r1c04cn1.vaughan
+PID    : 2961046
+I/O    : uncollated
+Done...

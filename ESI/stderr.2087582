@@ -1,0 +1,1596 @@
+[32] 
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+[0] 
+[32] 
+[0] 
+[32] --> FOAM FATAL IO ERROR: 
+[0] --> FOAM FATAL IO ERROR: 
+[32] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+[0] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[32] 
+[0] 
+[32] 
+[0] 
+[32] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor32/0/U/boundaryField/West from line 25 to line 33.
+[1] 
+[32] 
+[1] 
+[1] --> FOAM FATAL IO ERROR: 
+[1] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+[32]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[32]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[1] 
+[1] 
+[1] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor1/0/U/boundaryField/West from line 25 to line 33.
+[1] 
+[1]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[1]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[1] 
+FOAM parallel run exiting
+[1] 
+[32] 
+FOAM parallel run exiting
+[0] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor0/0/U/boundaryField/West from line 25 to line 33.
+[32] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 1 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 32 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[0] 
+[34] 
+[34] 
+[34] --> FOAM FATAL IO ERROR: 
+[34] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+[0]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[34] 
+[34] 
+[2] 
+[2] 
+[2] --> FOAM FATAL IO ERROR: 
+[34] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor34/0/U/boundaryField/West from line 25 to line 33.
+[34] 
+[34]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[34]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[34] 
+FOAM parallel run exiting
+[34] 
+[2] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 34 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[2] 
+[2] 
+[28] 
+[28] 
+[28] --> FOAM FATAL IO ERROR: 
+[28] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+[2] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor2/0/U/boundaryField/West from line 25 to line 33.
+[2] 
+[2]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[2]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[2] 
+FOAM parallel run exiting
+[2] 
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[28] 
+[28] 
+[28] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor28/0/U/boundaryField/West from line 25 to line 33.
+[28] 
+[0]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[0] 
+FOAM parallel run exiting
+[0] 
+[28]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[28]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[28] 
+FOAM parallel run exiting
+[28] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 2 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[35] 
+[35] 
+srun: error: r4c02cn2.vaughan: tasks 24-31,33,35-47: Killed
+[35] --> FOAM FATAL IO ERROR: 
+[35] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+srun: error: r4c02cn2.vaughan: tasks 32,34: Exited with exit code 1
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+srun: error: r4c02cn1.vaughan: tasks 0,2-23: Killed
+pressureInletUniformVelocity
+pressureInletVelocity
+srun: error: r4c02cn1.vaughan: task 1: Exited with exit code 1
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[35] 
+[35] 
+[35] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor35/0/U/boundaryField/West from line 25 to line 33.
+[35] 
+slurmstepd: error: *** STEP 2087582.0 ON r4c02cn1.vaughan CANCELLED AT 2025-05-27T13:59:19 ***
+[35]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[35]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[35] 
+FOAM parallel run exiting
+[35] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 35 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[8] 
+[8] 
+[8] --> FOAM FATAL IO ERROR: 
+[8] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+[42] 
+[42] 
+[42] --> FOAM FATAL IO ERROR: 
+[42] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[42] 
+[42] 
+[42] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor42/0/U/boundaryField/West from line 25 to line 33.
+[42] 
+[8] 
+[8] 
+[8] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor8/0/U/boundaryField/West from line 25 to line 33.
+[8] 
+[8]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[8]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[8] 
+FOAM parallel run exiting
+[8] 
+[42]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[42]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[42] 
+FOAM parallel run exiting
+[42] 
+[16] 
+[16] 
+[16] --> FOAM FATAL IO ERROR: 
+[16] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+[24] 
+[24] 
+[24] --> FOAM FATAL IO ERROR: 
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[16] 
+[16] 
+[24] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+[16] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor16/0/U/boundaryField/West from line 25 to line 33.
+[16] 
+[16]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[16]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[16] 
+FOAM parallel run exiting
+[16] 
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[24] 
+[24] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 8 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[24] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor24/0/U/boundaryField/West from line 25 to line 33.
+[24] 
+[24]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[24]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[24] 
+FOAM parallel run exiting
+[24] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 16 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 42 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 24 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 28 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[40] 
+[40] 
+[40] --> FOAM FATAL IO ERROR: 
+[40] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[40] 
+[40] 
+[40] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor40/0/U/boundaryField/West from line 25 to line 33.
+[40] 
+[40]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[40]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[40] 
+FOAM parallel run exiting
+[40] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 40 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[25] 
+[25] 
+[25] --> FOAM FATAL IO ERROR: 
+[25] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[25] 
+[25] 
+[25] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor25/0/U/boundaryField/West from line 25 to line 33.
+[25] 
+[25]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[25]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[25] 
+FOAM parallel run exiting
+[25] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 25 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[26] 
+[26] 
+[26] --> FOAM FATAL IO ERROR: 
+[26] Unknown patchField type atmBoundaryLayerInletVelocity for patch type patch
+
+Valid patchField types are :
+
+86
+(
+SRFFreestreamVelocity
+SRFVelocity
+SRFWallVelocity
+activeBaffleVelocity
+activePressureForceBaffleVelocity
+advective
+calculated
+codedFixedValue
+codedMixed
+cyclic
+cyclicAMI
+cyclicSlip
+cylindricalInletVelocity
+directionMixed
+empty
+externalCoupled
+extrapolatedCalculated
+fixedGradient
+fixedInternalValue
+fixedJump
+fixedJumpAMI
+fixedMean
+fixedMeanOutletInlet
+fixedNormalInletOutletVelocity
+fixedNormalSlip
+fixedProfile
+fixedShearStress
+fixedValue
+fixedValueInletOutlet
+flowRateInletVelocity
+flowRateOutletVelocity
+fluxCorrectedVelocity
+freestream
+freestreamVelocity
+inletOutlet
+internal
+interstitialInletVelocity
+kqRWallFunction
+mapped
+mappedField
+mappedFixedInternalValue
+mappedFlowRate
+mappedVelocityFlux
+matchedFlowRateOutletVelocity
+mixed
+movingWallSlipVelocity
+movingWallVelocity
+noSlip
+nonConformalCyclic
+nonConformalError
+nonConformalProcessorCyclic
+outletInlet
+outletMappedUniformInlet
+outletPhaseMeanVelocity
+partialSlip
+pressureDirectedInletOutletVelocity
+pressureDirectedInletVelocity
+pressureInletOutletParSlipVelocity
+pressureInletOutletVelocity
+pressureInletUniformVelocity
+pressureInletVelocity
+pressureNormalInletOutletVelocity
+processor
+processorCyclic
+rotatingPressureInletOutletVelocity
+rotatingWallVelocity
+slip
+supersonicFreestream
+surfaceNormalFixedValue
+surfaceNormalUniformFixedValue
+swirlFlowRateInletVelocity
+swirlInletVelocity
+symmetry
+symmetryPlane
+timeVaryingMappedFixedValue
+translatingWallVelocity
+turbulentInlet
+uniformFixedGradient
+uniformFixedValue
+uniformInletOutlet
+uniformJump
+uniformJumpAMI
+variableHeightFlowRateInletVelocity
+waveTransmissive
+wedge
+zeroGradient
+)
+[26] 
+[26] 
+[26] file: /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor26/0/U/boundaryField/West from line 25 to line 33.
+[26] 
+[26]     From function static Foam::tmp<Foam::fvPatchField<Type> > Foam::fvPatchField<Type>::New(const Foam::fvPatch&, const Foam::DimensionedField<Type, Foam::volMesh>&, const Foam::dictionary&) [with Type = Foam::Vector<double>]
+[26]     in file /apps/antwerpen/zen2/rocky8/OpenFOAM/10-foss-2022a-20230119-int64/OpenFOAM-10/src/finiteVolume/lnInclude/fvPatchFieldNew.C at line 128.
+[26] 
+FOAM parallel run exiting
+[26] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: 
+[0] Invalid option: -reconstruct
+[0] 
+[0] 
+FOAM parallel run exiting
+[0] 

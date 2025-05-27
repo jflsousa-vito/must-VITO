@@ -1,0 +1,36 @@
+rm: cannot remove 'log.snappyHexMesh': No such file or directory
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: 
+[0] "/scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/system/decomposeParDict" specifies 48 processors but job was started with 4 processors.
+[0] 
+FOAM parallel run exiting
+[0] 
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+slurmstepd: error: *** STEP 2087454.0 ON r4c02cn1.vaughan CANCELLED AT 2025-05-27T13:53:45 ***
+srun: error: r4c02cn1.vaughan: task 0: Exited with exit code 1
+srun: error: r4c02cn1.vaughan: tasks 1-3: Killed
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: 
+[0] Invalid option: -reconstruct
+[0] 
+[0] 
+FOAM parallel run exiting
+[0] 

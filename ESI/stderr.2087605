@@ -1,0 +1,23 @@
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: (openfoam-2406)
+[0] cannot find file "/scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI/processor0/constant/transportProperties"
+[0] 
+[0]     From virtual Foam::autoPtr<Foam::ISstream> Foam::fileOperations::uncollatedFileOperation::readStream(Foam::regIOobject&, const Foam::fileName&, const Foam::word&, bool) const
+[0]     in file global/fileOperations/uncollatedFileOperation/uncollatedFileOperation.C at line 629.
+[0] 
+FOAM exiting
+[0] 
+srun: error: r1c04cn1.vaughan: task 0: Exited with exit code 1
+slurmstepd: error:  mpi/pmix_v4: _errhandler: r1c04cn1.vaughan [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.2087605.0:0]
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 2087605.0 ON r1c04cn1.vaughan CANCELLED AT 2025-05-27T14:39:54 ***
+srun: error: r1c04cn3.vaughan: tasks 24-47: Killed
+srun: error: r1c04cn1.vaughan: tasks 1-23: Killed
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: (openfoam-2406)
+[0] "system/decomposeParDict" specifies 48 processors but job was started with 4 ranks.
+[0] 
+FOAM parallel run exiting
+[0] 

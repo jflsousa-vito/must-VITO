@@ -1,0 +1,25 @@
+[0] 
+[0] 
+[0] --> FOAM FATAL IO ERROR: (openfoam-2406)
+[0] ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 65
+[0] 
+[0] file: system/controlDict at line 65.
+[0] 
+[0]     From void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+[0]     in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 243.
+[0] 
+FOAM exiting
+[0] 
+srun: error: r1c04cn1.vaughan: task 0: Exited with exit code 1
+slurmstepd: error:  mpi/pmix_v4: _errhandler: r1c04cn1.vaughan [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.2087587.0:0]
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 2087587.0 ON r1c04cn1.vaughan CANCELLED AT 2025-05-27T14:10:16 ***
+srun: error: r1c04cn3.vaughan: tasks 24-47: Killed
+srun: error: r1c04cn1.vaughan: tasks 1-23: Killed
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: (openfoam-2406)
+[0] "system/decomposeParDict" specifies 48 processors but job was started with 4 ranks.
+[0] 
+FOAM parallel run exiting
+[0] 

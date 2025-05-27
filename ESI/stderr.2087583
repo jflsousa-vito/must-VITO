@@ -1,0 +1,377 @@
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+--> FOAM FATAL IO ERROR:
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+--> FOAM FATAL IO ERROR:
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+file: system/controlDict at line 66.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+srun: error: r1c04cn1.vaughan: tasks 0-23: Exited with exit code 1
+srun: error: r1c04cn3.vaughan: tasks 24-47: Exited with exit code 1
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+
+--> FOAM FATAL IO ERROR:
+ill defined primitiveEntry starting at keyword 'libs' on line 49 and ending at line 66
+file: system/controlDict at line 66.
+
+    From function void Foam::primitiveEntry::readEntry(const Foam::dictionary&, Foam::Istream&)
+    in file db/dictionary/primitiveEntry/primitiveEntryIO.C at line 168.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[13273,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------

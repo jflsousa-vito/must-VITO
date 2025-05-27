@@ -1,0 +1,52 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2406                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _630d60de3b-20240620 OPENFOAM=2406 version=v2406
+Arch   : "LSB;label=32;scalar=64"
+Exec   : /apps/antwerpen/zen2/rocky8/OpenFOAM/v2406-foss-2023a/OpenFOAM-v2406/platforms/linux64GccDPInt32Opt/bin/simpleFoam -parallel
+Date   : May 27 2025
+Time   : 12:14:48
+Host   : r2c02cn3.vaughan
+PID    : 785702
+I/O    : uncollated
+Case   : /scratch/antwerpen/grp/avito_map/ESI_vs_Foundation/must-VITO/ESI
+nProcs : 48
+Hosts  :
+(
+    (r2c02cn3.vaughan 12)
+    (r2c02cn4.vaughan 12)
+    (r2c03cn2.vaughan 12)
+    (r2c03cn3.vaughan 12)
+)
+Pstream initialized with:
+    floatTransfer      : false
+    maxCommsSize       : 0
+    nProcsSimpleSum    : 0
+    nonBlockingExchange: 0 (tuning: 0)
+    exchange algorithm : 0
+    commsType          : nonBlocking
+    polling iterations : 0
+trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+
+SIMPLE: convergence criteria
+    field p	 tolerance 1e-08
+    field U	 tolerance 1e-08
+    field "(k|omega|epsilon)"	 tolerance 1e-08
+    field C	 tolerance 1e-08
+
+Reading field p
+
+Reading field U
+

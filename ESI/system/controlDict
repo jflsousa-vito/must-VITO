@@ -14,6 +14,8 @@ FoamFile
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 
+
+
 application     simpleFoam;
 
 startFrom       latestTime;
@@ -50,8 +52,8 @@ runTimeModifiable true;
 
 functions
 {
-    #includeFunc residuals;
-    #includeFunc probes;
+    //#includeFunc residuals;
+    //#includeFunc probes;
     //#includeFunc surfaces;
     //#includeFunc singleGraph;
 
