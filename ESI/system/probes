@@ -1,0 +1,56 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  10
+     \\/     M anipulation  |
+-------------------------------------------------------------------------------
+Description
+    Writes out values of fields from cells nearest to specified locations.
+
+\*---------------------------------------------------------------------------*/
+
+
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      myProbes;
+}
+
+
+probes
+{
+    // Where to load it from
+    libs            ("libsampling.so");
+
+    type            probes;
+
+    // Name of the directory for probe data
+    name            probes;
+
+    // Write at same frequency as fields
+    writeControl    timeStep;
+    writeInterval   1;
+
+    // Fields to be probed
+    fields
+    (
+        U C
+    );
+
+    probeLocations
+    (
+        (-43.62 -62.33 1.60)
+(-15.31 49.19 1.60)
+(-13.26 6.04 16.00)
+(-13.26 6.04 12.00)
+(40.0 63.0 1.00)
+(85.0 -77.0 1.00)
+(-5.0 83 1.00)
+ // (0 0 0)
+    );
+}
+
