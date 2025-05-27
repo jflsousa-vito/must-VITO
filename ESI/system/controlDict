@@ -45,7 +45,7 @@ timePrecision   6;
 runTimeModifiable true;
 
 
-libs ("libAtmmomentumTransportModels.so" "libUserincompressibleMomentumTransportModels.so");
+//libs ("libAtmmomentumTransportModels.so" "libUserincompressibleMomentumTransportModels.so");
 
 
 functions

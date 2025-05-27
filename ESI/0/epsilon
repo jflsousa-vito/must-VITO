@@ -69,12 +69,13 @@ boundaryField
 
     floor
    { 
-      type            epsilonz0WallFunction; 
+      type            atmEpsilonWallFunction; 
        Cmu             0.09;
        kappa           0.4;
-       E               9.8;
+       //E               9.8;
        value           $internalField;
-       z0               $z0; 
+       z0               $z0;
+       //lowReCorrection false;
    }
 
 
