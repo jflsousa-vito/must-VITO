@@ -44,8 +44,6 @@ boundaryField
         type            zeroGradient;
     }
 
-
-
     top			//top
     {
         type            slip;
@@ -60,7 +58,6 @@ boundaryField
     { 
         type            zeroGradient; 
     }
-
 
     #includeEtc "caseDicts/setConstraintTypes"
 }

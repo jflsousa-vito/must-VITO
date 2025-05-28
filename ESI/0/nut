@@ -47,7 +47,6 @@ boundaryField
         value           uniform 0;
     }
 	
-
     top			//top
     {
         type            slip;
@@ -59,8 +58,6 @@ boundaryField
         value           uniform 0;
     }
     
-    
-
     floor
    { 
        type            atmNutkWallFunction; 
@@ -69,7 +66,6 @@ boundaryField
        Cmu             0.09;
        value           uniform 0.0; 
    }
-
 
     #includeEtc "caseDicts/setConstraintTypes"
 }

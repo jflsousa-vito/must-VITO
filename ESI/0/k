@@ -50,8 +50,6 @@ boundaryField
         value           $internalField;
     }
 
-
-
     top			//top
     {
         type            slip;
@@ -63,14 +61,11 @@ boundaryField
         value           uniform 0.0; 
     }
     
-    
-
     floor
    { 
        type            kqRWallFunction; 
        value           uniform 0.0;
    }
-
 
     #includeEtc "caseDicts/setConstraintTypes"
 }

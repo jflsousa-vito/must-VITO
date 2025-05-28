@@ -11,7 +11,7 @@ FoamFile
     format      ascii;
     class       volScalarField;
     location    "0";
-    object      @C;
+    object      C;
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 
@@ -37,14 +37,11 @@ boundaryField
     {
         type            zeroGradient;
     }
-
     
-
     floor
    { 
        type            zeroGradient; 
    }
-
 
     #includeEtc "caseDicts/setConstraintTypes"
 }

@@ -56,8 +56,7 @@ functions
     //#includeFunc probes;
     //#includeFunc surfaces;
     //#includeFunc singleGraph;
-
-    
+    #include "scalarTransport"  
 
 }
 

@@ -1,0 +1,54 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Version:  v2306
+    \\  /    A nd           | Website:  www.openfoam.com
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+C
+{
+    // Mandatory entries
+    type            scalarTransport;
+    libs            (solverFunctionObjects);
+ 
+    // Optional entries
+    field           C;        // Name of the passive-scalar field, default = 's'
+    //phi             <word>;     // Name of flux field, default = 'phi'
+    //rho             <word>;     // Name of density field for compressible cases, default = 'rho'
+    //nut             <word>;     // Name of the turbulence viscosity, default ='none'
+    //phase           <word>;     // Name of phase field to constrain scalar to, default = 'none'
+    //phasePhiCompressed  <word>; // Name of compressed VOF flux, default = 'alphaPhiUn'
+    schemesField    U;            // Name of field to specify schemes, default = 'field'
+    bounded01       false;        // Bound scalar between 0-1 using MULES for multiphase case, default = 'true'
+    //D               1.5e-5;       // Diffusion coefficient, default = '-'
+    alphaD          1.429;          // Laminar diffusivity coefficient, default = '1' --> 1/Sc = 1/0.7 = 1.429
+    alphaDt         1.667;       // Turbulent diffusivity coefficient, default = '1' --> 1/ScT = 1/0.6 = 1.667
+    tolerance       1e-5;         // Outer-loop initial-residual tolerance, default = '1'
+    //nCorr           <int>;      // Number of outer-loop correctors, default = '0'
+    resetOnStartUp  false;        // Flag to reset field to zero on start-up, default = 'false'
+
+    // Inherited entries
+    enabled         true;
+    //write           true;
+    writeControl    outputTime;     //writeTime;
+    writeInterval   1;
+
+    fvOptions                     // List of finite-volume options
+    {
+        unitySource
+        {
+            // Mandatory entries (unmodifiable)
+            type            scalarSemiImplicitSource; //<Type>SemiImplicitSource;
+            enabled         true;
+
+            selectionMode   cellZone;       // all, cellSet, cellZone, points
+            cellZone        source;
+            volumeMode      specific;       // specific =  values are given as [variable]/m3; absolute = values are given as [variable]
+            sources
+            {
+                // Specified as explicit(Su)/implicit(Sp) tuple:
+                C     (1.0 0);   //
+            }
+        }
+    }
+}
