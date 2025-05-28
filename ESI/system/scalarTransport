@@ -43,7 +43,7 @@ C
 
             selectionMode   cellZone;       // all, cellSet, cellZone, points
             cellZone        source;
-            volumeMode      specific;       // specific =  values are given as [variable]/m3; absolute = values are given as [variable]
+            volumeMode      absolute;       // specific =  values are given as [variable]/m3; absolute = values are given as [variable]
             sources
             {
                 // Specified as explicit(Su)/implicit(Sp) tuple:

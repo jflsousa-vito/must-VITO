@@ -52,12 +52,12 @@ runTimeModifiable true;
 
 functions
 {
-    //#includeFunc residuals;
-    //#includeFunc probes;
-    //#includeFunc surfaces;
-    //#includeFunc singleGraph;
-    #include "scalarTransport"  
-
+    #include solverInfo;
+    #include probes;
+    //#include residualsgraph;
+    //#include surfaces;
+    //#include singleGraph;
+    #include scalarTransport; 
 }
 
 
