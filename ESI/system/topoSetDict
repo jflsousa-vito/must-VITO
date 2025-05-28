@@ -18,7 +18,7 @@ actions
 (
  
  //@trees
- {
+{
 name    source;
 type    cellSet;
 action  new;
@@ -32,10 +32,15 @@ sourceInfo
     includeOutside  false;
     nearDistance    0.2;
     curvature       1.0;
+    }
 }
+{
+    name source;
+    type cellZoneSet;
+    action  new;
+    source setToCellZone;
+    set source;
 }
-
 
 );
-
 // ************************************************************************* //
