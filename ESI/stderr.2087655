@@ -1,0 +1,7 @@
+[0] 
+[0] 
+[0] --> FOAM FATAL ERROR: (openfoam-2406)
+[0] "system/decomposeParDict" specifies 48 processors but job was started with 4 ranks.
+[0] 
+FOAM parallel run exiting
+[0] 
